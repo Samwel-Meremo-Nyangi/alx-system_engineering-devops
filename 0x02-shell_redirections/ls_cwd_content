@@ -12,3 +12,6 @@ drwxr-xr-x 6 root root 121 Feb 12 22:11 ..
 -rw-r--r-- 1 root root  36 Feb 12 23:58 8-cwd_state
 -rw-r--r-- 1 root root   0 Feb 12 23:59 ls_cwd_content
 -rw-r--r-- 1 root root  23 Feb 12 22:14 README.md
+Last line to be duplicated --- this is a test
+Anotther line there to be dupliucated by the command given
+Anotther line there to be dupliucated by the command given
